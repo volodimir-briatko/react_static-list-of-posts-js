@@ -18,5 +18,4 @@ export const CommentList = ({ comments = [] }) => {
       <b data-cy="NoCommentsMessage">No comments yet</b>
     </>
   );
-
 };
